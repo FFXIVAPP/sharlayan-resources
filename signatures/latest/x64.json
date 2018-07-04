@@ -84,14 +84,14 @@
   ]
 }, {
   "Key": "HOTBAR",
-  "Value": "F783843E**000000",
+  "Value": "F783843E****0000",
   "ASMSignature": false,
   "PointerPath": [
     0, 56, 48, 40, 32, 0, 0
   ]
 }, {
   "Key": "RECAST",
-  "Value": "F783843E**000000",
+  "Value": "F783843E****0000",
   "ASMSignature": false,
   "PointerPath": [
     0, 56, 24, 48, 32, 60
