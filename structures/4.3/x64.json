@@ -208,7 +208,7 @@
     "RemainingCost": 28,
     "Amount": 32,
     "InRange": 36,
-    "ContainerSize": 3328,
+    "ContainerSize": 640,
     "ItemSize": 40
   },
   "StatusItem": {
