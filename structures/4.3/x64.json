@@ -209,7 +209,7 @@
     "Amount": 32,
     "InRange": 36,
     "ContainerSize": 3328,
-    "ItemSize": 208
+    "ItemSize": 40
   },
   "StatusItem": {
     "StatusID": 0,
