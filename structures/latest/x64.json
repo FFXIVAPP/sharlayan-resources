@@ -166,8 +166,8 @@
     "Name": 0,
     "KeyBinds": 103,
     "ID": 150,
-    "ContainerSize": 3328,
-    "ItemSize": 208
+    "ContainerSize": 3456,
+    "ItemSize": 216
   },
   "InventoryContainer": {
     "Amount": 8
