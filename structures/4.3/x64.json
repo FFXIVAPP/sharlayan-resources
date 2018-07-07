@@ -14,6 +14,7 @@
     "Z": 164,
     "Y": 168,
     "Heading": 176,
+    "EventObjectType": 190,
     "HitBoxRadius": 192,
     "Fate": 228,
     "ModelID": 372,
