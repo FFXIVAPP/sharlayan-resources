@@ -39,11 +39,11 @@
   },
   {
     "Key": "PARTYCOUNT",
-    "Value": "488D7C242066660F1F840000000000488B17488D0D",
+    "Value": "CCCCCCCC803D******0100751D803D",
     "ASMSignature": true,
     "PointerPath": [
       0,
-      -26920
+      1
     ]
   },
   {
