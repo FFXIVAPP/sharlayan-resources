@@ -70,7 +70,7 @@
     "LogEnd": 92
   },
   "CurrentPlayer": {
-      "SourceSize": 620,
+      "SourceSize": 650,
       "JobID": 102,
       "PGL": 106,
       "GLD": 108,
@@ -169,7 +169,7 @@
       "Craftmanship": 616,
       "Control": 620,
       "Gathering": 624,
-      "Perception": 612
+      "Perception": 628
   },
   "EnmityItem": {
     "SourceSize": 72,
