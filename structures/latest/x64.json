@@ -26,7 +26,7 @@
     "EntityCount": 474, // ???
     "ClaimedByID": 5832,
     "TargetID": 6176, // 5956 old - 488 possible
-    "ModelID": 6232,
+    "ModelID": 6268,
     "ActionStatus": 6362, // old 6250
     "HPCurrent": 6308, // old 5976,
     "HPMax": 6312,
