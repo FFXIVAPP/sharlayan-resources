@@ -3,7 +3,7 @@
     "SourceSize": 9200,
     "DefaultBaseOffset": 0,
     "DefaultStatOffset": 0,
-    "DefaultStatusEffectOffset": 6520,
+    "DefaultStatusEffectOffset": 6488,
     "Name": 48,
     "ID": 116,
     "NPCID1": 120,
@@ -23,36 +23,36 @@
     "Fate": 228, // ???
     "IsGM": 396, // ???
     "TargetType": 464, // ???
-    "EntityCount": 474, // ???
-    "ClaimedByID": 6168,
-    "TargetID": 488, 
-    "ModelID": 6280,
-    "ActionStatus": 6374, 
-    "HPCurrent": 6328, 
-    "HPMax": 6332,
-    "MPCurrent": 6336,
-    "MPMax": 6340,
-    "TPCurrent": 6336, // irrelivant
-    "GPCurrent": 6346,
-    "GPMax": 6348,
-    "CPCurrent": 6350,
-    "CPMax": 6352, 
-    "Title": 6358, // ???
-    "Job": 6388,
-    "Level": 6390,
-    "Icon": 6380, // ???
-    "Status": 5361,
-    "GrandCompany": 6393, // ???
-    "GrandCompanyRank": 6393, // ???
-    "DifficultyRank": 6397, // ???
-    "AgroFlags": 6412,
-    "CombatFlags": 6431,
-    "IsCasting1": 7264,
-    "IsCasting2": 7265,
-    "CastingID": 7268,
-    "CastingTargetID": 7280,
-    "CastingProgress": 7316,
-    "CastingTime": 7320
+    "EntityCount": 480, // ???
+    "TargetID": 496, 
+    "Status": 5297,
+    "ClaimedByID": 6136,
+    "ModelID": 6248, 
+    "HPCurrent": 6296, 
+    "HPMax": 6300,
+    "MPCurrent": 6304,
+    "MPMax": 6304, // doesn't exist anymore (since everyone has 10000 max now)
+    "TPCurrent": 6312, // doesn't exist anymore
+    "GPCurrent": 6312,
+    "GPMax": 6314,
+    "CPCurrent": 6316,
+    "CPMax": 6318, 
+    "Title": 6326, // ???
+    "ActionStatus": 6356,
+    "Job": 6358,
+    "Level": 6360,
+    "Icon": 6350, // ???
+    "GrandCompany": 6363, // ???
+    "GrandCompanyRank": 6363, // ???
+    "DifficultyRank": 6367, // ???
+    "AgroFlags": 6382,
+    "CombatFlags": 6401,
+    "IsCasting1": 7232,
+    "IsCasting2": 7234,
+    "CastingID": 7236,
+    "CastingTargetID": 7248,
+    "CastingProgress": 7284,
+    "CastingTime": 7288
   },
   "StatusItem": {
     "SourceSize": 12,
@@ -229,10 +229,10 @@
   "TargetInfo": {
     "Size": 9200,
     "SourceSize": 216,
-    "Current": 16,
     "MouseOver": 0,
-    "Previous": 160,
+    "Current": 16,
     "Focus": 136,
+    "Previous": 160,
     "CurrentID": 208
   }
 }

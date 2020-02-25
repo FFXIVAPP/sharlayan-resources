@@ -311,6 +311,18 @@
       "Korean": "???"
     }
   },
+  "29": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
   "128": {
     "Index": 0,
     "IsDungeonInstance": false,
@@ -6088,7 +6100,7 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "Frondale's Ward for Friendless Foundlings",
+      "English": "Frondale's Home for Friendless Foundlings",
       "French": "Clinique pédiatrique de l'Académie médicale de Frondale",
       "German": "Frondales Physiatrische Akademie",
       "Japanese": "フロンデール薬学院小児病棟",
@@ -8790,7 +8802,7 @@
       "Chinese": "???",
       "English": "Malikah's Well",
       "French": "Puits de Malikah",
-      "German": "Südliche Bernsteinhügel",
+      "German": "Malikahs Brunnen",
       "Japanese": "マリカの大井戸",
       "Korean": "???"
     }
@@ -8944,10 +8956,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Core",
+      "French": "Cœur d'Éden",
+      "German": "Das Herz",
+      "Japanese": "エデンコア",
       "Korean": "???"
     }
   },
@@ -8956,10 +8968,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Halo",
+      "French": "Halo pinaculaire",
+      "German": "Das Deck",
+      "Japanese": "エデン甲板",
       "Korean": "???"
     }
   },
@@ -8968,10 +8980,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Nereus Trench",
+      "French": "Fosse de Nérée",
+      "German": "Nereus-Graben",
+      "Japanese": "ネレウス海淵",
       "Korean": "???"
     }
   },
@@ -8980,10 +8992,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Atlas Peak",
+      "French": "Mont Atlas",
+      "German": "Atlas-Gipfel",
+      "Japanese": "アトラス山頂",
       "Korean": "???"
     }
   },
@@ -8992,10 +9004,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Core",
+      "French": "Cœur d'Éden",
+      "German": "Das Herz",
+      "Japanese": "エデンコア",
       "Korean": "???"
     }
   },
@@ -9004,10 +9016,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Halo",
+      "French": "Halo pinaculaire",
+      "German": "Das Deck",
+      "Japanese": "エデン甲板",
       "Korean": "???"
     }
   },
@@ -9016,10 +9028,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Nereus Trench",
+      "French": "Fosse de Nérée",
+      "German": "Nereus-Graben",
+      "Japanese": "ネレウス海淵",
       "Korean": "???"
     }
   },
@@ -9028,10 +9040,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Atlas Peak",
+      "French": "Mont Atlas",
+      "German": "Atlas-Gipfel",
+      "Japanese": "アトラス山頂",
       "Korean": "???"
     }
   },
@@ -9040,10 +9052,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Core",
+      "French": "Cœur d'Éden",
+      "German": "Das Herz",
+      "Japanese": "エデンコア",
       "Korean": "???"
     }
   },
@@ -9292,10 +9304,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Empty",
+      "French": "Le Grand Vide",
+      "German": "Die Große Leere",
+      "Japanese": "無の大地",
       "Korean": "???"
     }
   },
@@ -9304,10 +9316,10 @@
     "IsDungeonInstance": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Dungeons of Lyhe Ghiah",
+      "French": "Donjon hypogéen du Lyhe Ghiah",
+      "German": "Verliese von Lyhe Ghiah",
+      "Japanese": "リェー・ギア・ダンジョン",
       "Korean": "???"
     }
   },
@@ -9336,6 +9348,510 @@
     }
   },
   "882": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Copied Factory",
+      "French": "Réplique de l'usine désaffectée",
+      "German": "Die kopierte Fabrik",
+      "Japanese": "複製サレタ工場廃墟",
+      "Korean": "???"
+    }
+  },
+  "883": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "884": {
+    "Index": 0,
+    "IsDungeonInstance": true,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Grand Cosmos",
+      "French": "Cosmos coruscant",
+      "German": "Chateau Cosmea",
+      "Japanese": "グラン・コスモス",
+      "Korean": "???"
+    }
+  },
+  "885": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Dying Gasp",
+      "French": "Râle de l'Agonie",
+      "German": "Die Letzten Tage von Amaurot",
+      "Japanese": "終末のアーモロート",
+      "Korean": "???"
+    }
+  },
+  "886": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Firmament",
+      "French": "Azurée",
+      "German": "Himmelsstadt",
+      "Japanese": "蒼天街",
+      "Korean": "???"
+    }
+  },
+  "887": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Liminal Space",
+      "French": "Univers différentiel",
+      "German": "Geschlossene Raumzeit",
+      "Japanese": "階差閉宇宙",
+      "Korean": "???"
+    }
+  },
+  "888": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Onsal Hakair",
+      "French": "Onsal Hakair",
+      "German": "Onsal Hakair",
+      "Japanese": "オンサル・ハカイル",
+      "Korean": "???"
+    }
+  },
+  "889": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lyhe Mheg",
+      "French": "Lyhe Mheg",
+      "German": "Lyhe Mheg",
+      "Japanese": "リェー・メグ",
+      "Korean": "???"
+    }
+  },
+  "890": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lyhe Mheg",
+      "French": "Lyhe Mheg",
+      "German": "Lyhe Mheg",
+      "Japanese": "リェー・メグ",
+      "Korean": "???"
+    }
+  },
+  "891": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lyhe Mheg",
+      "French": "Lyhe Mheg",
+      "German": "Lyhe Mheg",
+      "Japanese": "リェー・メグ",
+      "Korean": "???"
+    }
+  },
+  "892": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lyhe Mheg",
+      "French": "Lyhe Mheg",
+      "German": "Lyhe Mheg",
+      "Japanese": "リェー・メグ",
+      "Korean": "???"
+    }
+  },
+  "893": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Imperial Palace",
+      "French": "Palais impérial",
+      "German": "Kaiserpalast",
+      "Japanese": "帝都魔導城",
+      "Korean": "???"
+    }
+  },
+  "894": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lyhe Mheg",
+      "French": "Lyhe Mheg",
+      "German": "Lyhe Mheg",
+      "Japanese": "リェー・メグ",
+      "Korean": "???"
+    }
+  },
+  "895": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Excavation Tunnels",
+      "French": "Entrée des ruines mécaniques",
+      "German": "Alter Stollen",
+      "Japanese": "機械遺跡の坑道",
+      "Korean": "???"
+    }
+  },
+  "896": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Copied Factory",
+      "French": "Réplique de l'usine désaffectée",
+      "German": "Die kopierte Fabrik",
+      "Japanese": "複製サレタ工場廃墟",
+      "Korean": "???"
+    }
+  },
+  "897": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Cinder Drift",
+      "French": "Les Nuées de Brandons",
+      "German": "Verteidigungslinie Ghimlyt",
+      "Japanese": "ギムリト防衛ライン",
+      "Korean": "???"
+    }
+  },
+  "898": {
+    "Index": 0,
+    "IsDungeonInstance": true,
+    "Name": {
+      "Chinese": "???",
+      "English": "Anamnesis Anyder",
+      "French": "Anamnesis Anydre",
+      "German": "Anamnesis Anyder",
+      "Japanese": "アニドラス・アナムネーシス",
+      "Korean": "???"
+    }
+  },
+  "899": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Falling City of Nym",
+      "French": "Cité croulante de Nym",
+      "German": "Schwebende Stadt Nym",
+      "Japanese": "ニーム浮遊遺跡風特設アスレチック",
+      "Korean": "???"
+    }
+  },
+  "900": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The <Emphasis>Endeavor</Emphasis>",
+      "French": "L'Ambition",
+      "German": "Die <Emphasis>Endeavor</Emphasis>",
+      "Japanese": "エンデバー号",
+      "Korean": "???"
+    }
+  },
+  "901": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "902": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Gandof Thunder Plains",
+      "French": "Plaine foudroyée de Gandof",
+      "German": "Gandoph-Donnersteppe",
+      "Japanese": "ガンドフ雷平原",
+      "Korean": "???"
+    }
+  },
+  "903": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Ashfall",
+      "French": "Bassin cendreux",
+      "German": "Aschenfall",
+      "Japanese": "灰の旅程",
+      "Korean": "???"
+    }
+  },
+  "904": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Halo",
+      "French": "Pont supérieur d'Éden",
+      "German": "Das Deck",
+      "Japanese": "エデン甲板",
+      "Korean": "???"
+    }
+  },
+  "905": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Great Glacier",
+      "French": "Grand Glacier",
+      "German": "Gletscher",
+      "Japanese": "大氷河",
+      "Korean": "???"
+    }
+  },
+  "906": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Gandof Thunder Plains",
+      "French": "Plaine foudroyée de Gandof",
+      "German": "Gandoph-Donnersteppe",
+      "Japanese": "ガンドフ雷平原",
+      "Korean": "???"
+    }
+  },
+  "907": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Ashfall",
+      "French": "Bassin cendreux",
+      "German": "Aschenfall",
+      "Japanese": "灰の旅程",
+      "Korean": "???"
+    }
+  },
+  "908": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Halo",
+      "French": "Pont supérieur d'Éden",
+      "German": "Das Deck",
+      "Japanese": "エデン甲板",
+      "Korean": "???"
+    }
+  },
+  "909": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Great Glacier",
+      "French": "Grand Glacier",
+      "German": "Gletscher",
+      "Japanese": "大氷河",
+      "Korean": "???"
+    }
+  },
+  "910": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "911": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "912": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Cinder Drift",
+      "French": "Les Nuées de Brandons",
+      "German": "Verteidigungslinie Ghimlyt",
+      "Japanese": "ギムリト防衛ライン",
+      "Korean": "???"
+    }
+  },
+  "913": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "914": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Trial's Threshold",
+      "French": "Antichambre de l'épreuve",
+      "German": "Halle der Prüfung",
+      "Japanese": "徳測りし前室",
+      "Korean": "???"
+    }
+  },
+  "915": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "916": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "917": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "918": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "919": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "920": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "921": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Frondale's Home for Friendless Foundlings",
+      "French": "Clinique pédiatrique de l'Académie médicale de Frondale",
+      "German": "Frondales Physiatrische Akademie",
+      "Japanese": "フロンデール薬学院小児病棟",
+      "Korean": "???"
+    }
+  },
+  "922": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "923": {
+    "Index": 0,
+    "IsDungeonInstance": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "924": {
     "Index": 0,
     "IsDungeonInstance": false,
     "Name": {

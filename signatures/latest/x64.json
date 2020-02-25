@@ -1,11 +1,11 @@
 [
   {
     "Key": "TARGET",
-    "Value": "41bc000000e041bd01000000493bc47555488d0d",
+    "Value": "5fc3483935********75**483935",
     "ASMSignature": true,
     "PointerPath": [
       0,
-      112
+      -16
     ]
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "Key": "CHARMAP",
-    "Value": "488b420848c1e8033da701000077248bc0488d0d",
+    "Value": "488b420848c1e8033da701000077**8bc0488d0d",
     "ASMSignature": true,
     "PointerPath": [
       0,

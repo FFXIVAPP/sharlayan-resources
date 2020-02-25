@@ -509,10 +509,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Stealth",
-      "French": "Furtivité",
-      "German": "Coeurl-Pfoten",
-      "Japanese": "ステルス",
+      "English": "Sneak",
+      "French": "Discrétion",
+      "German": "Verstohlenheit",
+      "Japanese": "スニーク",
       "Korean": "???"
     }
   },
@@ -2820,9 +2820,9 @@
     "Name": {
       "Chinese": "???",
       "English": "Waste Not II",
-      "French": "Parcimonie II",
+      "French": "Parcimonie pérenne",
       "German": "Nachhaltigkeit II",
-      "Japanese": "倹約II",
+      "Japanese": "長期倹約",
       "Korean": "???"
     }
   },
@@ -8850,7 +8850,7 @@
       "English": "Collector's Glove",
       "French": "Gant de col<SoftHyphen/>lec<SoftHyphen/>tion<SoftHyphen/>neur",
       "German": "Sammlergespür",
-      "Japanese": "蒐集品採集",
+      "Japanese": "収集品採集",
       "Korean": "???"
     }
   },
@@ -9067,10 +9067,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "The Twelve's Bounty",
+      "French": "Bénédiction des Douze",
+      "German": "Gunst der Zwölf",
+      "Japanese": "十二神の加護",
       "Korean": "???"
     }
   },
@@ -9332,7 +9332,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Collective Unconscious",
-      "French": "Inconscient collectif",
+      "French": "Inconscient collectif (effet)",
       "German": "Numinosum",
       "Japanese": "運命の輪：効果",
       "Korean": "???"
@@ -9683,10 +9683,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Traders' Favor (Coerthas Western Highlands)",
-      "French": "Talisman des Marchands (Coerthas occidental)",
-      "German": "Nald'thals Gunst (Westliches Hochland von Coerthas)",
-      "Japanese": "ナルザルの護符：クルザス西部高地",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9694,10 +9694,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Traders' Favor (Dravanian Forelands)",
-      "French": "Talisman des Marchands (Avant-pays dravanien)",
-      "German": "Nald'thals Gunst (Dravanisches Vorland)",
-      "Japanese": "ナルザルの護符：高地ドラヴァニア",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9705,10 +9705,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Traders' Favor (Dravanian Hinterlands)",
-      "French": "Talisman des Marchands (Arrière-pays dravanien)",
-      "German": "Nald'thals Gunst (Dravanisches Hinterland)",
-      "Japanese": "ナルザルの護符：低地ドラヴァニア",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9716,10 +9716,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Traders' Favor (The Churning Mists)",
-      "French": "Talisman des Marchands (Cieux de Dravania)",
-      "German": "Nald'thals Gunst (Wallende Nebel)",
-      "Japanese": "ナルザルの護符：ドラヴァニア雲海",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9727,10 +9727,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Traders' Favor (The Sea of Clouds)",
-      "French": "Talisman des Marchands (Cieux d'Abalathia)",
-      "German": "Nald'thals Gunst (Abalathisches Wolkenmeer)",
-      "Japanese": "ナルザルの護符：アバラシア雲海",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9738,10 +9738,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Traders' Favor (Azys Lla)",
-      "French": "Talisman des Marchands (Azys Lla)",
-      "German": "Nald'thals Gunst (Azys Lla)",
-      "Japanese": "ナルザルの護符：魔大陸アジス・ラー",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9749,10 +9749,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Matron's Favor (Coerthas Western Highlands)",
-      "French": "Talisman de la Mère (Coerthas occidental)",
-      "German": "Nophicas Gunst (Westliches Hochland von Coerthas)",
-      "Japanese": "ノフィカの護符：クルザス西部高地",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9760,10 +9760,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Matron's Favor (Dravanian Forelands)",
-      "French": "Talisman de la Mère (Avant-pays dravanien)",
-      "German": "Nophicas Gunst (Dravanisches Vorland)",
-      "Japanese": "ノフィカの護符：高地ドラヴァニア",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9771,10 +9771,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Matron's Favor (Dravanian Hinterlands)",
-      "French": "Talisman de la Mère (Arrière-pays dravanien)",
-      "German": "Nophicas Gunst (Dravanisches Hinterland)",
-      "Japanese": "ノフィカの護符：低地ドラヴァニア",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9782,10 +9782,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Matron's Favor (The Churning Mists)",
-      "French": "Talisman de la Mère (Cieux de Dravania)",
-      "German": "Nophicas Gunst (Wallende Nebel)",
-      "Japanese": "ノフィカの護符：ドラヴァニア雲海",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9793,10 +9793,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Matron's Favor (The Sea of Clouds)",
-      "French": "Talisman de la Mère (Cieux d'Abalathia)",
-      "German": "Nophicas Gunst (Abalathisches Wolkenmeer)",
-      "Japanese": "ノフィカの護符：アバラシア雲海",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9804,10 +9804,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Matron's Favor (Azys Lla)",
-      "French": "Talisman de la Mère (Azys Lla)",
-      "German": "Nophicas Gunst (Azys Lla)",
-      "Japanese": "ノフィカの護符：魔大陸アジス・ラー",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
       "Korean": "???"
     }
   },
@@ -9928,7 +9928,7 @@
       "English": "Collectable Synthesis",
       "French": "Synthèse collectionnable",
       "German": "Sammlerstück-Synthese",
-      "Japanese": "蒐集品製作",
+      "Japanese": "収集品製作",
       "Korean": "???"
     }
   },
@@ -10509,7 +10509,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Wheel of Fortune",
-      "French": "Roue de la fortune",
+      "French": "Inconscient collectif",
       "German": "Numinosum",
       "Japanese": "運命の輪",
       "Korean": "???"
@@ -12644,7 +12644,7 @@
       "Chinese": "???",
       "English": "Deep Freeze",
       "French": "Congélation",
-      "German": "Nullpunkt",
+      "German": "Tiefkühlung",
       "Japanese": "氷結",
       "Korean": "???"
     }
@@ -12796,10 +12796,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Manipulation II",
-      "French": "Manipulation II",
-      "German": "Manipulation II",
-      "Japanese": "マニピュレーションII",
+      "English": "Manipulation",
+      "French": "Manipulation",
+      "German": "Manipulation",
+      "Japanese": "マニピュレーション",
       "Korean": "???"
     }
   },
@@ -13258,10 +13258,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Wheel of Fortune",
+      "French": "Inconscient collectif (effet)",
+      "German": "Numinosum",
+      "Japanese": "運命の輪：効果",
       "Korean": "???"
     }
   },
@@ -14216,7 +14216,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Forward March",
-      "French": "Piratage mental<Indent/>: avancer",
+      "French": "Contrainte mentale<Indent/>: avancer",
       "German": "Geistlenkung vorwärts",
       "Japanese": "移動命令：前",
       "Korean": "???"
@@ -14227,7 +14227,7 @@
     "Name": {
       "Chinese": "???",
       "English": "About Face",
-      "French": "Piratage mental<Indent/>: reculer",
+      "French": "Contrainte mentale<Indent/>: reculer",
       "German": "Geistlenkung rückwärts",
       "Japanese": "移動命令：後",
       "Korean": "???"
@@ -14238,7 +14238,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Left Face",
-      "French": "Piratage mental<Indent/>: virage à gauche",
+      "French": "Contrainte mentale<Indent/>: virage à gauche",
       "German": "Geistlenkung links",
       "Japanese": "移動命令：左",
       "Korean": "???"
@@ -14249,7 +14249,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Right Face",
-      "French": "Piratage mental<Indent/>: virage à droite",
+      "French": "Contrainte mentale<Indent/>: virage à droite",
       "German": "Geistlenkung rechts",
       "Japanese": "移動命令：右",
       "Korean": "???"
@@ -15007,10 +15007,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Thunder III Ready",
-      "French": "Méga Foudre préparée",
+      "English": "Thundercloud",
+      "French": "Nuage d'orage",
       "German": "Blitzga-bereit",
-      "Japanese": "サンダガ詠唱可",
+      "Japanese": "サンダー系魔法効果アップ",
       "Korean": "???"
     }
   },
@@ -19035,7 +19035,7 @@
       "Chinese": "???",
       "English": "Deep Freeze",
       "French": "Congélation",
-      "German": "Festgefroren",
+      "German": "Tiefkühlung",
       "Japanese": "氷結",
       "Korean": "???"
     }
@@ -19243,7 +19243,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Twin Fates",
-      "French": "Résonnance des lances",
+      "French": "Résonance des lances",
       "German": "Resonanz der gekreuzten Speere",
       "Japanese": "二槍共鳴",
       "Korean": "???"
@@ -19332,7 +19332,7 @@
       "Chinese": "???",
       "English": "Deep Freeze",
       "French": "Congélation",
-      "German": "Nullpunkt",
+      "German": "Tiefkühlung",
       "Japanese": "氷結",
       "Korean": "???"
     }
@@ -19880,10 +19880,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Spell-in-Waiting",
+      "French": "Déphasage incantatoire",
+      "German": "Verzögerung",
+      "Japanese": "ディレイスペル",
       "Korean": "???"
     }
   },
@@ -19891,10 +19891,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Spell-in-Waiting: Unholy Darkness",
+      "French": "Sort déphasé<Indent/>: Miracle sombre",
+      "German": "Verzögerung: Unheiliges Dunkel",
+      "Japanese": "ディレイスペル：ダークホーリー",
       "Korean": "???"
     }
   },
@@ -19902,10 +19902,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Spell-in-Waiting: Dark Fire III",
+      "French": "Sort déphasé<Indent/>: Méga Feu ténébreux",
+      "German": "Verzögerung: Dunkel-Feuga",
+      "Japanese": "ディレイスペル：ダークファイガ",
       "Korean": "???"
     }
   },
@@ -19913,10 +19913,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Spell-in-Waiting: Hell Wind",
+      "French": "Sort déphasé<Indent/>: Vent infernal",
+      "German": "Verzögerung: Höllenwind",
+      "Japanese": "ディレイスペル：ヘルウィンド",
       "Korean": "???"
     }
   },
@@ -19924,10 +19924,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Spell-in-Waiting: Shadoweye",
+      "French": "Sort déphasé<Indent/>: Œil de l'ombre",
+      "German": "Verzögerung: Schattenauge",
+      "Japanese": "ディレイスペル：シャドウアイ",
       "Korean": "???"
     }
   },
@@ -19935,10 +19935,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Flesh Wound",
+      "French": "Blessure physique",
+      "German": "Fleischwunde",
+      "Japanese": "切傷",
       "Korean": "???"
     }
   },
@@ -20091,7 +20091,7 @@
       "Chinese": "???",
       "English": "Improvisation",
       "French": "Improvisation",
-      "German": "Improvisation",
+      "German": "Tanzimprovisation",
       "Japanese": "インプロビゼーション",
       "Korean": "???"
     }
@@ -20102,7 +20102,7 @@
       "Chinese": "???",
       "English": "Improvisation",
       "French": "Improvisation (bonus)",
-      "German": "Improvisation (Heilung)",
+      "German": "Tanzimprovisation (Heilung)",
       "Japanese": "インプロビゼーション：効果",
       "Korean": "???"
     }
@@ -20342,10 +20342,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Surging Waters",
+      "French": "Eaux écrasantes",
+      "German": "Omen der Erdrückung",
+      "Japanese": "強圧の兆し",
       "Korean": "???"
     }
   },
@@ -20353,10 +20353,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Splashing Waters",
+      "French": "Eaux déferlantes",
+      "German": "Omen des Sturms",
+      "Japanese": "強風の兆し",
       "Korean": "???"
     }
   },
@@ -20364,10 +20364,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Swirling Waters",
+      "French": "Eaux tournoyantes",
+      "German": "Omen des Wasserwirbels",
+      "Japanese": "渦動の兆し",
       "Korean": "???"
     }
   },
@@ -20375,10 +20375,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Smothering Waters",
+      "French": "Eaux submergeantes",
+      "German": "Omen der Ertränkung",
+      "Japanese": "溺没の兆し",
       "Korean": "???"
     }
   },
@@ -20386,10 +20386,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Sundering Waters",
+      "French": "Eaux fracturantes",
+      "German": "Omen der Zerstörung",
+      "Japanese": "断絶の兆し",
       "Korean": "???"
     }
   },
@@ -20397,10 +20397,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Sweeping Waters",
+      "French": "Eaux pulvérisantes",
+      "German": "Omen der Auflösung",
+      "Japanese": "拡散の兆し",
       "Korean": "???"
     }
   },
@@ -20508,9 +20508,9 @@
     "Name": {
       "Chinese": "???",
       "English": "Meditation",
-      "French": "Méditation Mokusô",
+      "French": "Tension de la lame",
       "German": "Meditationsebene",
-      "Japanese": "黙想深度",
+      "Japanese": "剣圧",
       "Korean": "???"
     }
   },
@@ -20815,10 +20815,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Scouring Waters",
+      "French": "Eaux dévastatrices",
+      "German": "Omen der Böen",
+      "Japanese": "暴風の兆し",
       "Korean": "???"
     }
   },
@@ -20980,10 +20980,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Fetters",
+      "French": "Attache",
+      "German": "Gefesselt",
+      "Japanese": "拘束",
       "Korean": "???"
     }
   },
@@ -21420,10 +21420,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "Lightning Rod",
-      "French": "Auto-Foudre ",
-      "German": "Eisenhaube",
-      "Japanese": "いかづちによわい",
+      "English": "Magic Damage Down",
+      "French": "Malus de dégâts magiques",
+      "German": "Magieschaden -",
+      "Japanese": "魔法ダメージ低下",
       "Korean": "???"
     }
   },
@@ -21431,10 +21431,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Splashing Waters",
+      "French": "Eaux déferlantes",
+      "German": "Omen des Sturms",
+      "Japanese": "強風の兆し",
       "Korean": "???"
     }
   },
@@ -21531,7 +21531,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Forward March",
-      "French": "Piratage mental<Indent/>: avancer",
+      "French": "Contrainte mentale<Indent/>: avancer",
       "German": "Geistlenkung vorwärts",
       "Japanese": "移動命令：前",
       "Korean": "???"
@@ -21542,7 +21542,7 @@
     "Name": {
       "Chinese": "???",
       "English": "About Face",
-      "French": "Piratage mental<Indent/>: reculer",
+      "French": "Contrainte mentale<Indent/>: reculer",
       "German": "Geistlenkung rückwärts",
       "Japanese": "移動命令：後",
       "Korean": "???"
@@ -21553,7 +21553,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Left Face",
-      "French": "Piratage mental<Indent/>: virage à gauche",
+      "French": "Contrainte mentale<Indent/>: virage à gauche",
       "German": "Geistlenkung links",
       "Japanese": "移動命令：左",
       "Korean": "???"
@@ -21564,7 +21564,7 @@
     "Name": {
       "Chinese": "???",
       "English": "Right Face",
-      "French": "Piratage mental<Indent/>: virage à droite",
+      "French": "Contrainte mentale<Indent/>: virage à droite",
       "German": "Geistlenkung rechts",
       "Japanese": "移動命令：右",
       "Korean": "???"
@@ -21706,10 +21706,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Paradise Regained",
+      "French": "Paradis retrouvé",
+      "German": "Wiedergewonnenes Paradies",
+      "Japanese": "パラダイスリゲイン",
       "Korean": "???"
     }
   },
@@ -21915,9 +21915,9 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "シェイクオフ",
-      "French": "シェイクオフ",
-      "German": "シェイクオフ",
+      "English": "Shake It Off",
+      "French": "Débarrassage",
+      "German": "Abschütteln",
       "Japanese": "シェイクオフ",
       "Korean": "???"
     }
@@ -21992,10 +21992,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "被ダメージ軽減",
-      "French": "被ダメージ軽減",
-      "German": "被ダメージ軽減",
-      "Japanese": "被ダメージ軽減",
+      "English": "Heart of Light",
+      "French": "Cœur de Lumière",
+      "German": "Wackeres Herz",
+      "Japanese": "ハート・オブ・ライト",
       "Korean": "???"
     }
   },
@@ -22091,10 +22091,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "スターダイバー",
-      "French": "スターダイバー",
-      "German": "スターダイバー",
-      "Japanese": "スターダイバー",
+      "English": "Wanderer's Minuet",
+      "French": "Chant guerrier",
+      "German": "Menuett des Wanderers",
+      "Japanese": "戦歌",
       "Korean": "???"
     }
   },
@@ -22124,10 +22124,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "劫火滅却の術",
-      "French": "劫火滅却の術",
-      "German": "劫火滅却の術",
-      "Japanese": "劫火滅却の術",
+      "English": "Corps-a-corps",
+      "French": "Corps-à-corps",
+      "German": "Corps-a-corps",
+      "Japanese": "コル・ア・コル",
       "Korean": "???"
     }
   },
@@ -22135,10 +22135,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "氷晶乱流の術",
-      "French": "氷晶乱流の術",
-      "German": "氷晶乱流の術",
-      "Japanese": "氷晶乱流の術",
+      "English": "Displacement",
+      "French": "Déplacement",
+      "German": "Körperparade",
+      "Japanese": "デプラスマン",
       "Korean": "???"
     }
   },
@@ -22212,10 +22212,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "リバースカスケード実行可",
-      "French": "リバースカスケード実行可",
-      "German": "リバースカスケード実行可",
-      "Japanese": "リバースカスケード実行可",
+      "English": "Intervention",
+      "French": "Intervention",
+      "German": "Intervention",
+      "Japanese": "インターベンション",
       "Korean": "???"
     }
   },
@@ -22311,10 +22311,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "着火",
-      "French": "着火",
-      "German": "着火",
-      "Japanese": "着火",
+      "English": "Fountain of Fire",
+      "French": "Flamme de la vie",
+      "German": "Quell des Feuers",
+      "Japanese": "霊泉の炎",
       "Korean": "???"
     }
   },
@@ -22366,10 +22366,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "マナフィケーション",
-      "French": "マナフィケーション",
-      "German": "マナフィケーション",
-      "Japanese": "マナフィケーション",
+      "English": "Divination",
+      "French": "Divination",
+      "German": "Weissagung",
+      "Japanese": "ディヴィネーション",
       "Korean": "???"
     }
   },
@@ -22410,10 +22410,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "テンパランス",
-      "French": "テンパランス",
-      "German": "テンパランス",
-      "Japanese": "テンパランス",
+      "English": "Temperance",
+      "French": "Tempérance",
+      "German": "Linderung",
+      "Japanese": "テンパランス：効果",
       "Korean": "???"
     }
   },
@@ -22511,7 +22511,7 @@
       "Chinese": "???",
       "English": "Wide Awake",
       "French": "Insensible à la poudre de rêve",
-      "German": "Traumstaub",
+      "German": "Hellwach",
       "Japanese": "ドリームパウダー耐性",
       "Korean": "???"
     }
@@ -22784,10 +22784,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "Verhängnis",
-      "Japanese": "",
+      "English": "Focalization",
+      "French": "Traité de la focalisation",
+      "German": "Lege Artis",
+      "Japanese": "精神統一の策",
       "Korean": "???"
     }
   },
@@ -22817,10 +22817,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Thunder II",
+      "French": "Extra Foudre",
+      "German": "Blitzra",
+      "Japanese": "サンダラ",
       "Korean": "???"
     }
   },
@@ -22839,9 +22839,9 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "インナーカオス",
-      "French": "インナーカオス",
-      "German": "インナーカオス",
+      "English": "Inner Chaos",
+      "French": "Chaos intérieur",
+      "German": "Inneres Chaos",
       "Japanese": "インナーカオス",
       "Korean": "???"
     }
@@ -22850,9 +22850,9 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "カオティックサイクロン",
-      "French": "カオティックサイクロン",
-      "German": "カオティックサイクロン",
+      "English": "Chaotic Cyclone",
+      "French": "Cyclone chaotique",
+      "German": "Chaosklinge",
       "Japanese": "カオティックサイクロン",
       "Korean": "???"
     }
@@ -23092,10 +23092,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Unstable Gravity",
+      "French": "Gravité instable",
+      "German": "Schwerkraftschwankung",
+      "Japanese": "グラビティバースト",
       "Korean": "???"
     }
   },
@@ -23158,10 +23158,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Spell-in-Waiting: Flare",
+      "French": "Sort déphasé<Indent/>: Brasier",
+      "German": "Verzögerung: Flare",
+      "Japanese": "ディレイスペル：フレア",
       "Korean": "???"
     }
   },
@@ -23202,10 +23202,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Ancient Circle",
+      "French": "Cercle ancien",
+      "German": "Orbis Antiquus",
+      "Japanese": "エンシェントリング",
       "Korean": "???"
     }
   },
@@ -23213,10 +23213,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Prey",
+      "French": "Marquage",
+      "German": "Markiert",
+      "Japanese": "マーキング",
       "Korean": "???"
     }
   },
@@ -23224,10 +23224,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Prey",
+      "French": "Marquage",
+      "German": "Markiert",
+      "Japanese": "マーキング",
       "Korean": "???"
     }
   },
@@ -23246,10 +23246,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Gobskin",
+      "French": "Gobépiderme",
+      "German": "Gobhaut",
+      "Japanese": "ゴブスキン",
       "Korean": "???"
     }
   },
@@ -23257,10 +23257,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Conked",
+      "French": "Malus d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence et d'esprit",
+      "German": "Stumpfsinn",
+      "Japanese": "ＩＮＴ・ＭＮＤ低下",
       "Korean": "???"
     }
   },
@@ -23268,10 +23268,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Meatily Shielded",
+      "French": "Ordre défensif",
+      "German": "Absichern",
+      "Japanese": "防御指示",
       "Korean": "???"
     }
   },
@@ -23279,10 +23279,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Meat Shield",
+      "French": "Cible d'ordre défensif",
+      "German": "Absichern",
+      "Japanese": "防御指示［被］",
       "Korean": "???"
     }
   },
@@ -23290,10 +23290,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Harmonized",
+      "French": "Attaque préméditée",
+      "German": "Angriffsbereit",
+      "Japanese": "攻撃準備",
       "Korean": "???"
     }
   },
@@ -23301,10 +23301,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Cactguard",
+      "French": "Cactugarde",
+      "German": "Sukkulentenschild",
+      "Japanese": "カクトガード",
       "Korean": "???"
     }
   },
@@ -23312,10 +23312,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "HP Boost",
+      "French": "PV maximum augmentés",
+      "German": "LP-Bonus",
+      "Japanese": "最大ＨＰ増加",
       "Korean": "???"
     }
   },
@@ -23323,10 +23323,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Astral Attenuation",
+      "French": "Résistance astrale diminuée",
+      "German": "Lichtschwäche",
+      "Japanese": "星極性耐性低下",
       "Korean": "???"
     }
   },
@@ -23334,10 +23334,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Umbral Attenuation",
+      "French": "Résistance ombrale diminuée",
+      "German": "Schattenschwäche",
+      "Japanese": "霊極性耐性低下",
       "Korean": "???"
     }
   },
@@ -23345,10 +23345,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Physical Attenuation",
+      "French": "Vulnérabilité physique augmentée",
+      "German": "Leibesschwäche",
+      "Japanese": "被物理ダメージ増加",
       "Korean": "???"
     }
   },
@@ -23356,10 +23356,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Aetherial Mimicry: Tank",
+      "French": "Éther de protecteur",
+      "German": "Äther-Mimikry: Verteidiger",
+      "Japanese": "エーテルコピー：タンク",
       "Korean": "???"
     }
   },
@@ -23367,10 +23367,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Aetherial Mimicry: DPS",
+      "French": "Éther de combattant",
+      "German": "Äther-Mimikry: Angreifer",
+      "Japanese": "エーテルコピー：ＤＰＳ",
       "Korean": "???"
     }
   },
@@ -23378,10 +23378,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Aetherial Mimicry: Healer",
+      "French": "Éther de soigneur",
+      "German": "Äther-Mimikry: Heiler",
+      "Japanese": "エーテルコピー：ヒーラー",
       "Korean": "???"
     }
   },
@@ -23389,10 +23389,10 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Brush with Death",
+      "French": "Volonté vacillante",
+      "German": "Schwindender Wille",
+      "Japanese": "意志薄弱",
       "Korean": "???"
     }
   },
@@ -23400,14 +23400,355 @@
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
-      "English": "",
-      "French": "",
-      "German": "",
-      "Japanese": "",
+      "English": "Burning Brand",
+      "French": "Marque de feu",
+      "German": "Brandmal des Feuers",
+      "Japanese": "火の烙印",
       "Korean": "???"
     }
   },
   "2129": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Freezing Brand",
+      "French": "Marque de glace",
+      "German": "Brandmal des Eises",
+      "Japanese": "氷の烙印",
+      "Korean": "???"
+    }
+  },
+  "2130": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Surpanakha's Fury",
+      "French": "Surpanakha renforcée",
+      "German": "Verbessertes Surpanakha",
+      "Japanese": "徹甲散弾強化",
+      "Korean": "???"
+    }
+  },
+  "2131": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Battle High I",
+      "French": "Ivresse du combat I",
+      "German": "Euphorie I",
+      "Japanese": "戦意高揚I",
+      "Korean": "???"
+    }
+  },
+  "2132": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Battle High II",
+      "French": "Ivresse du combat II",
+      "German": "Euphorie II",
+      "Japanese": "戦意高揚II",
+      "Korean": "???"
+    }
+  },
+  "2133": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Battle High III",
+      "French": "Ivresse du combat III",
+      "German": "Euphorie III",
+      "Japanese": "戦意高揚III",
+      "Korean": "???"
+    }
+  },
+  "2134": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Battle High IV",
+      "French": "Ivresse du combat IV",
+      "German": "Euphorie IV",
+      "Japanese": "戦意高揚IV",
+      "Korean": "???"
+    }
+  },
+  "2135": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Battle High V",
+      "French": "Ivresse du combat V",
+      "German": "Euphorie V",
+      "Japanese": "戦意高揚V",
+      "Korean": "???"
+    }
+  },
+  "2136": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Mortal Flame",
+      "French": "Flamme mortelle",
+      "German": "Ewige Flammen",
+      "Japanese": "必滅の炎",
+      "Korean": "???"
+    }
+  },
+  "2137": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Decree Nisi γ",
+      "French": "Peine provisoire γ ultime",
+      "German": "Letztes Vorläufiges Urteil γ",
+      "Japanese": "最後の仮判決γ",
+      "Korean": "???"
+    }
+  },
+  "2138": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Decree Nisi δ",
+      "French": "Peine provisoire δ ultime",
+      "German": "Letztes Vorläufiges Urteil δ",
+      "Japanese": "最後の仮判決δ",
+      "Korean": "???"
+    }
+  },
+  "2139": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Judgment: Decree Nisi γ",
+      "French": "Injonction<Indent/>: peine provisoire γ",
+      "German": "Prozess über Vorläufiges Urteil γ",
+      "Japanese": "最後の審判：仮判決γ",
+      "Korean": "???"
+    }
+  },
+  "2140": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Judgment: Decree Nisi δ",
+      "French": "Injonction<Indent/>: peine provisoire δ",
+      "German": "Prozess über Vorläufiges Urteil δ",
+      "Japanese": "最後の審判：仮判決δ",
+      "Korean": "???"
+    }
+  },
+  "2141": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Judgment: Penalty IV",
+      "French": "Injonction<Indent/>: 4 altérations",
+      "German": "Prozess über Schwächung 4",
+      "Japanese": "最後の審判：デバフ4",
+      "Korean": "???"
+    }
+  },
+  "2142": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Compressed Water",
+      "French": "Compression aqueuse",
+      "German": "Wasserkompression",
+      "Japanese": "水属性圧縮",
+      "Korean": "???"
+    }
+  },
+  "2143": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Compressed Lightning",
+      "French": "Compression électrique",
+      "German": "Blitzkompression",
+      "Japanese": "雷属性圧縮",
+      "Korean": "???"
+    }
+  },
+  "2144": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Water Resistance Down II",
+      "French": "Résistance à l'eau réduite+",
+      "German": "Wasserresistenz - (stark)",
+      "Japanese": "水属性耐性低下［強］",
+      "Korean": "???"
+    }
+  },
+  "2145": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lightning Resistance Down II",
+      "French": "Résistance à la foudre réduite+",
+      "German": "Blitzresistenz - (stark)",
+      "Japanese": "雷属性耐性低下［強］",
+      "Korean": "???"
+    }
+  },
+  "2146": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Enigma Codex",
+      "French": "Enigma Codex",
+      "German": "Enigma-Kodex",
+      "Japanese": "エニグマ・コーデックス",
+      "Korean": "???"
+    }
+  },
+  "2147": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Enigma Codex",
+      "French": "Enigma Codex",
+      "German": "Enigma-Kodex",
+      "Japanese": "エニグマ・コーデックス",
+      "Korean": "???"
+    }
+  },
+  "2148": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Contact Prohibition Ordained",
+      "French": "Contact prohibé",
+      "German": "Kontaktverbot",
+      "Japanese": "接触禁止命令",
+      "Korean": "???"
+    }
+  },
+  "2149": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Contact Regulation Ordained",
+      "French": "Contact forcé",
+      "German": "Kontakt-Order",
+      "Japanese": "接触保護命令",
+      "Korean": "???"
+    }
+  },
+  "2150": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Escape Prohibition Ordained",
+      "French": "Fuite prohibée",
+      "German": "Fluchtverbot",
+      "Japanese": "逃亡禁止命令",
+      "Korean": "???"
+    }
+  },
+  "2151": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Escape Detection Ordained",
+      "French": "Fuite forcée",
+      "German": "Fluchtbeobachtung",
+      "Japanese": "逃亡監察命令",
+      "Korean": "???"
+    }
+  },
+  "2152": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Word: Contact Prohibition",
+      "French": "Jugement<Indent/>: contact prohibé",
+      "German": "Urteil: Kontaktverbot",
+      "Japanese": "確定判決：接触禁止命令",
+      "Korean": "???"
+    }
+  },
+  "2153": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Word: Contact Regulation",
+      "French": "Jugement<Indent/>: contact forcé",
+      "German": "Urteil: Kontakt-Order",
+      "Japanese": "確定判決：接触保護命令",
+      "Korean": "???"
+    }
+  },
+  "2154": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Word: Escape Prohibition",
+      "French": "Jugement<Indent/>: fuite prohibée",
+      "German": "Urteil: Fluchtverbot",
+      "Japanese": "確定判決：逃亡禁止命令",
+      "Korean": "???"
+    }
+  },
+  "2155": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Word: Escape Detection",
+      "French": "Jugement<Indent/>: fuite forcée",
+      "German": "Urteil: Fluchtbeobachtung",
+      "Japanese": "確定判決：逃亡監察命令",
+      "Korean": "???"
+    }
+  },
+  "2156": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Suppuration",
+      "French": "Morsure du feu",
+      "German": "Verbrennung",
+      "Japanese": "熱傷",
+      "Korean": "???"
+    }
+  },
+  "2157": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Oil",
+      "French": "Huile",
+      "German": "Öl",
+      "Japanese": "オイル",
+      "Korean": "???"
+    }
+  },
+  "2158": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Heavy",
+      "French": "Pesanteur",
+      "German": "Gewicht",
+      "Japanese": "ヘヴィ",
+      "Korean": "???"
+    }
+  },
+  "2159": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Red Light",
+      "French": "Halte<Indent/>!",
+      "German": "Stillgestanden",
+      "Japanese": "動くな！",
+      "Korean": "???"
+    }
+  },
+  "2160": {
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
@@ -23418,7 +23759,1646 @@
       "Korean": "???"
     }
   },
-  "2130": {
+  "2161": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Forward March",
+      "French": "Contrainte mentale<Indent/>: avancer",
+      "German": "Geistlenkung vorwärts",
+      "Japanese": "移動命令：前",
+      "Korean": "???"
+    }
+  },
+  "2162": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "About Face",
+      "French": "Contrainte mentale<Indent/>: reculer",
+      "German": "Geistlenkung rückwärts",
+      "Japanese": "移動命令：後",
+      "Korean": "???"
+    }
+  },
+  "2163": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Left Face",
+      "French": "Contrainte mentale<Indent/>: virage à gauche",
+      "German": "Geistlenkung links",
+      "Japanese": "移動命令：左",
+      "Korean": "???"
+    }
+  },
+  "2164": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Right Face",
+      "French": "Contrainte mentale<Indent/>: virage à droite",
+      "German": "Geistlenkung rechts",
+      "Japanese": "移動命令：右",
+      "Korean": "???"
+    }
+  },
+  "2165": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Temporal Displacement",
+      "French": "Stase temporelle",
+      "German": "Zeitstillstand",
+      "Japanese": "時間停止",
+      "Korean": "???"
+    }
+  },
+  "2166": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Magitek Field",
+      "French": "Champ de force magitek",
+      "German": "Magitek-Feld",
+      "Japanese": "魔導フィールド",
+      "Korean": "???"
+    }
+  },
+  "2167": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2168": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Divine Veil",
+      "French": "Voile divin",
+      "German": "Heiliger Quell",
+      "Japanese": "ディヴァインヴェール",
+      "Korean": "???"
+    }
+  },
+  "2169": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Divine Veil",
+      "French": "Voile divin",
+      "German": "Heiliger Quell (Barriere)",
+      "Japanese": "ディヴァインヴェール［バリア］",
+      "Korean": "???"
+    }
+  },
+  "2170": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Flood of Shadow",
+      "French": "Déluge d'ombre",
+      "German": "Schattenflut",
+      "Japanese": "漆黒の波動",
+      "Korean": "???"
+    }
+  },
+  "2171": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Dark Missionary",
+      "French": "Missionnaire des Ténèbres",
+      "German": "Dunkler Bote",
+      "Japanese": "ダークミッショナリー",
+      "Korean": "???"
+    }
+  },
+  "2172": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Arm's Length",
+      "French": "Portée de bras",
+      "German": "Abtausch",
+      "Japanese": "アームズレングス",
+      "Korean": "???"
+    }
+  },
+  "2173": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Meditative Brotherhood",
+      "French": "Fraternité méditative",
+      "German": "Meditative Bruderschaft",
+      "Japanese": "桃園結義：闘気",
+      "Korean": "???"
+    }
+  },
+  "2174": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Brotherhood",
+      "French": "Fraternité",
+      "German": "Bruderschaft",
+      "Japanese": "桃園結義：攻撃",
+      "Korean": "???"
+    }
+  },
+  "2175": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Life Surge",
+      "French": "Souffle de vie",
+      "German": "Vitalwallung",
+      "Japanese": "ライフサージ",
+      "Korean": "???"
+    }
+  },
+  "2176": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Meditation",
+      "French": "Tension de la lame",
+      "German": "Meditationsebene",
+      "Japanese": "剣圧",
+      "Korean": "???"
+    }
+  },
+  "2177": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Tactician",
+      "French": "Tacticien",
+      "German": "Taktiker",
+      "Japanese": "タクティシャン",
+      "Korean": "???"
+    }
+  },
+  "2178": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Nature's Minne",
+      "French": "Minne de la nature",
+      "German": "Nophicas Minne",
+      "Japanese": "地神のミンネ",
+      "Korean": "???"
+    }
+  },
+  "2179": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Testudo",
+      "French": "Testudo",
+      "German": "Testudo",
+      "Japanese": "テストゥド",
+      "Korean": "???"
+    }
+  },
+  "2180": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Fast Draw",
+      "French": "Fou de la gâchette",
+      "German": "Triggerwut",
+      "Japanese": "トリガーハッピー",
+      "Korean": "???"
+    }
+  },
+  "2181": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Arm's Length",
+      "French": "Portée de bras",
+      "German": "Abtausch",
+      "Japanese": "アームズレングス：効果",
+      "Korean": "???"
+    }
+  },
+  "2182": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Excogitation",
+      "French": "Traité de l'excogitation",
+      "German": "Weise Voraussicht",
+      "Japanese": "深謀遠慮の策",
+      "Korean": "???"
+    }
+  },
+  "2183": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Nocturnal Field",
+      "French": "ノクターナルフィールド",
+      "German": "ノクターナルフィールド",
+      "Japanese": "ノクターナルフィールド",
+      "Korean": "???"
+    }
+  },
+  "2184": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Retaliation",
+      "French": "Vengeance",
+      "German": "Gegenangriff",
+      "Japanese": "逆襲",
+      "Korean": "???"
+    }
+  },
+  "2185": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Feint",
+      "French": "Restreinte",
+      "German": "Zermürben",
+      "Japanese": "牽制",
+      "Korean": "???"
+    }
+  },
+  "2186": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Concentrate",
+      "French": "Concentration",
+      "German": "Konzentration",
+      "Japanese": "集中",
+      "Korean": "???"
+    }
+  },
+  "2187": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Aetheric Burst",
+      "French": "Explosion éthérée",
+      "German": "Ätherschub",
+      "Japanese": "エーテルバースト",
+      "Korean": "???"
+    }
+  },
+  "2188": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Largesse",
+      "French": "Largesse",
+      "German": "Huld",
+      "Japanese": "慈愛",
+      "Korean": "???"
+    }
+  },
+  "2189": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Innovation",
+      "French": "Innovation",
+      "German": "Innovation",
+      "Japanese": "イノベーション",
+      "Korean": "???"
+    }
+  },
+  "2190": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Appraisal",
+      "French": "Dernières vé<SoftHyphen/>ri<SoftHyphen/>fi<SoftHyphen/>ca<SoftHyphen/>tions",
+      "German": "Letzte Kontrolle",
+      "Japanese": "最終確認",
+      "Korean": "???"
+    }
+  },
+  "2191": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Muscle Memory",
+      "French": "Mémoire musculaire",
+      "German": "Motorisches Gedächtnis",
+      "Japanese": "確信",
+      "Korean": "???"
+    }
+  },
+  "2192": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Blight",
+      "French": "Supplice",
+      "German": "Pesthauch",
+      "Japanese": "クラウダ",
+      "Korean": "???"
+    }
+  },
+  "2193": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2194": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Burns",
+      "French": "Brûlure",
+      "German": "Brandwunde",
+      "Japanese": "火傷",
+      "Korean": "???"
+    }
+  },
+  "2195": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2196": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Light in the Dark",
+      "French": "Lumière salvatrice",
+      "German": "Entfesseltes Licht",
+      "Japanese": "光の解放",
+      "Korean": "???"
+    }
+  },
+  "2197": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Death Becomes You",
+      "French": "Semi-zombification",
+      "German": "Halb-Zombie",
+      "Japanese": "半分ゾンビー",
+      "Korean": "???"
+    }
+  },
+  "2198": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Vulnerability Down",
+      "French": "Vulnérabilité diminuée",
+      "German": "Verringerte Verwundbarkeit",
+      "Japanese": "被ダメージ低下",
+      "Korean": "???"
+    }
+  },
+  "2199": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Burns",
+      "French": "Brûlure",
+      "German": "Brandwunde",
+      "Japanese": "火傷",
+      "Korean": "???"
+    }
+  },
+  "2200": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Electrocution",
+      "French": "Électrocution",
+      "German": "Stromschlag",
+      "Japanese": "感電",
+      "Korean": "???"
+    }
+  },
+  "2201": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Ancient Double",
+      "French": "Double ancien",
+      "German": "Doppelung der Alten",
+      "Japanese": "エンシェントダブル",
+      "Korean": "???"
+    }
+  },
+  "2202": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2203": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2204": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2205": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2206": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Atlas",
+      "French": "Chute encaissée",
+      "German": "Meteorfänger",
+      "Japanese": "落下阻止",
+      "Korean": "???"
+    }
+  },
+  "2207": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Unwavering Will",
+      "French": "Barrière psy<SoftHyphen/>cho<SoftHyphen/>lo<SoftHyphen/>gi<SoftHyphen/>que",
+      "German": "Geistschild",
+      "Japanese": "心理障壁",
+      "Korean": "???"
+    }
+  },
+  "2208": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Blind to Rage",
+      "French": "Incarnation de la fureur",
+      "German": "Verkörperter Zorn",
+      "Japanese": "憤怒の化身",
+      "Korean": "???"
+    }
+  },
+  "2209": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Blind to Grief",
+      "French": "Incarnation de l'angoisse",
+      "German": "Verkörperte Trauer",
+      "Japanese": "悲嘆の化身",
+      "Korean": "???"
+    }
+  },
+  "2210": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Pall of Rage",
+      "French": "Fureur",
+      "German": "Zorn",
+      "Japanese": "憤怒",
+      "Korean": "???"
+    }
+  },
+  "2211": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Pall of Grief",
+      "French": "Angoisse",
+      "German": "Trauer",
+      "Japanese": "悲嘆",
+      "Korean": "???"
+    }
+  },
+  "2212": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2213": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Vulnerability Up",
+      "French": "Vulnérabilité augmentée",
+      "German": "Erhöhte Verwundbarkeit",
+      "Japanese": "被ダメージ上昇",
+      "Korean": "???"
+    }
+  },
+  "2214": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Army's Paeon",
+      "French": "Péan martial",
+      "German": "Hymne der Krieger",
+      "Japanese": "軍神のパイオン",
+      "Korean": "???"
+    }
+  },
+  "2215": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Wanderer's Minuet",
+      "French": "Menuet du Vagabond",
+      "German": "Menuett des Wanderers",
+      "Japanese": "旅神のメヌエット",
+      "Korean": "???"
+    }
+  },
+  "2216": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "The Wanderer's Minuet",
+      "French": "Menuet du Vagabond",
+      "German": "Menuett des Wanderers",
+      "Japanese": "旅神のメヌエット",
+      "Korean": "???"
+    }
+  },
+  "2217": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Mage's Ballad",
+      "French": "Ballade du mage",
+      "German": "Ballade des Weisen",
+      "Japanese": "賢人のバラード",
+      "Korean": "???"
+    }
+  },
+  "2218": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Army's Paeon",
+      "French": "Péan martial",
+      "German": "Hymne der Krieger",
+      "Japanese": "軍神のパイオン",
+      "Korean": "???"
+    }
+  },
+  "2219": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Shadow of the Dragon",
+      "French": "Sang noir du dragon",
+      "German": "Schwarzes Drachenblut",
+      "Japanese": "黒の竜血",
+      "Korean": "???"
+    }
+  },
+  "2220": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Damage Up",
+      "French": "Bonus de dégâts",
+      "German": "Schaden +",
+      "Japanese": "ダメージ上昇",
+      "Korean": "???"
+    }
+  },
+  "2221": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Judgment: Penalty III",
+      "French": "Injonction<Indent/>: 3 altérations",
+      "German": "Prozess über Schwächung 3",
+      "Japanese": "最後の審判：デバフ3",
+      "Korean": "???"
+    }
+  },
+  "2222": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Decree Nisi α",
+      "French": "Peine provisoire α ultime",
+      "German": "Letztes Vorläufiges Urteil α",
+      "Japanese": "最後の仮判決α",
+      "Korean": "???"
+    }
+  },
+  "2223": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Decree Nisi β",
+      "French": "Peine provisoire β ultime",
+      "German": "Letztes Vorläufiges Urteil β",
+      "Japanese": "最後の仮判決β",
+      "Korean": "???"
+    }
+  },
+  "2224": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Judgment: Decree Nisi α",
+      "French": "Injonction<Indent/>: peine provisoire α",
+      "German": "Prozess über Vorläufiges Urteil α",
+      "Japanese": "最後の審判：仮判決α",
+      "Korean": "???"
+    }
+  },
+  "2225": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Final Judgment: Decree Nisi β",
+      "French": "Injonction<Indent/>: peine provisoire β",
+      "German": "Prozess über Vorläufiges Urteil β",
+      "Japanese": "最後の審判：仮判決β",
+      "Korean": "???"
+    }
+  },
+  "2226": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Veneration",
+      "French": "Vénération",
+      "German": "Ehrfurcht",
+      "Japanese": "ヴェネレーション",
+      "Korean": "???"
+    }
+  },
+  "2227": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2228": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Surge Protection",
+      "French": "Parafoudre",
+      "German": "Überspannungsschutz",
+      "Japanese": "避雷",
+      "Korean": "???"
+    }
+  },
+  "2229": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Static Condensation",
+      "French": "Charge électrique",
+      "German": "Statische Ladung",
+      "Japanese": "蓄電",
+      "Korean": "???"
+    }
+  },
+  "2230": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "パニック",
+      "French": "パニック",
+      "German": "パニック",
+      "Japanese": "パニック",
+      "Korean": "???"
+    }
+  },
+  "2231": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Fury's Bolt",
+      "French": "Boules de foudre",
+      "German": "Wütender Blitz",
+      "Japanese": "チャージボルト",
+      "Korean": "???"
+    }
+  },
+  "2232": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "System Shock",
+      "French": "Électro-choc",
+      "German": "Elektrisiert",
+      "Japanese": "電気ショック",
+      "Korean": "???"
+    }
+  },
+  "2233": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Electrified",
+      "French": "Électrocution irradiante",
+      "German": "Stromleiter",
+      "Japanese": "過剰帯電",
+      "Korean": "???"
+    }
+  },
+  "2234": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2235": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Hated of the Vortex",
+      "French": "Malédiction de la Souffleuse de rafales",
+      "German": "Fluch des Windes",
+      "Japanese": "嵐神の呪い",
+      "Korean": "???"
+    }
+  },
+  "2236": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Hated of Embers",
+      "French": "Malédiction du Seigneur des flammes",
+      "German": "Fluch der Flammen",
+      "Japanese": "焔神の呪い",
+      "Korean": "???"
+    }
+  },
+  "2237": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Irons of Purgatory",
+      "French": "Chaîne du purgatoire",
+      "German": "Höllenfessel",
+      "Japanese": "煉獄の鎖",
+      "Korean": "???"
+    }
+  },
+  "2238": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Astral Effect",
+      "French": "Corruption de Lumière",
+      "German": "Denaturation Licht",
+      "Japanese": "偏属性：光",
+      "Korean": "???"
+    }
+  },
+  "2239": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Umbral Effect",
+      "French": "Corruption de Ténèbres",
+      "German": "Denaturation Dunkelheit",
+      "Japanese": "偏属性：闇",
+      "Korean": "???"
+    }
+  },
+  "2240": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Forward with Thee",
+      "French": "Translation avant",
+      "German": "Deportation: vorne",
+      "Japanese": "強制転移：前",
+      "Korean": "???"
+    }
+  },
+  "2241": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Back with Thee",
+      "French": "Translation arrière",
+      "German": "Deportation: hinten",
+      "Japanese": "強制転移：後",
+      "Korean": "???"
+    }
+  },
+  "2242": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Left with Thee",
+      "French": "Translation gauche",
+      "German": "Deportation: links",
+      "Japanese": "強制転移：左",
+      "Korean": "???"
+    }
+  },
+  "2243": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Right with Thee",
+      "French": "Translation droite",
+      "German": "Deportation: rechts",
+      "Japanese": "強制転移：右",
+      "Korean": "???"
+    }
+  },
+  "2244": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Anemomorph",
+      "French": "Hélicomorphie",
+      "German": "Hydromimesis",
+      "Japanese": "竜巻形態",
+      "Korean": "???"
+    }
+  },
+  "2245": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Hated of Levin",
+      "French": "Malédiction du Patriarche fulgurant",
+      "German": "Fluch des Blitzes",
+      "Japanese": "雷神の呪い",
+      "Korean": "???"
+    }
+  },
+  "2246": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2247": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Waymark",
+      "French": "Cible d'une ruée",
+      "German": "Ziel des Ansturms",
+      "Japanese": "突進標的",
+      "Korean": "???"
+    }
+  },
+  "2248": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Blunt Resistance Down",
+      "French": "Résistance au contondant réduite",
+      "German": "Schlagresistenz -",
+      "Japanese": "打属性耐性低下",
+      "Korean": "???"
+    }
+  },
+  "2249": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Unstable",
+      "French": "Déséquilibre",
+      "German": "Außer Balance",
+      "Japanese": "不安定",
+      "Korean": "???"
+    }
+  },
+  "2250": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lightheaded",
+      "French": "Titubation",
+      "German": "Auf wackeligen Beinen",
+      "Japanese": "ふらつき",
+      "Korean": "???"
+    }
+  },
+  "2251": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Freezing",
+      "French": "Congélation graduelle",
+      "German": "Allmähliche Kühlung",
+      "Japanese": "徐々に氷結",
+      "Korean": "???"
+    }
+  },
+  "2252": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Deep Freeze",
+      "French": "Congélation",
+      "German": "Tiefkühlung",
+      "Japanese": "氷結",
+      "Korean": "???"
+    }
+  },
+  "2253": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Refulgent Chain",
+      "French": "Chaînes de Lumière",
+      "German": "Lichtfessel",
+      "Japanese": "光の鎖",
+      "Korean": "???"
+    }
+  },
+  "2254": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Refulgent Chain",
+      "French": "Chaînes de Lumière",
+      "German": "Lichtfessel",
+      "Japanese": "光の鎖",
+      "Korean": "???"
+    }
+  },
+  "2255": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Refulgent Fate",
+      "French": "Lien de Lumière",
+      "German": "Bann des Lichts",
+      "Japanese": "光の呪縛",
+      "Korean": "???"
+    }
+  },
+  "2256": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Refulgent Fate",
+      "French": "Lien de Lumière",
+      "German": "Bann des Lichts",
+      "Japanese": "光の呪縛",
+      "Korean": "???"
+    }
+  },
+  "2257": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Lightsteeped",
+      "French": "Lumière excédentaire",
+      "German": "Exzessives Licht",
+      "Japanese": "過剰光",
+      "Korean": "???"
+    }
+  },
+  "2258": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Wyrmclaw",
+      "French": "Griffes du Dragon divin",
+      "German": "Krallen des heiligen Drachen",
+      "Japanese": "聖竜の爪",
+      "Korean": "???"
+    }
+  },
+  "2259": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Wyrmfang",
+      "French": "Crocs du Dragon divin",
+      "German": "Reißzähne des heiligen Drachen",
+      "Japanese": "聖竜の牙",
+      "Korean": "???"
+    }
+  },
+  "2260": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Hated of Frost",
+      "French": "Malédiction de la Furie des neiges",
+      "German": "Verfluchung der Eisgöttin",
+      "Japanese": "氷神の呪い",
+      "Korean": "???"
+    }
+  },
+  "2261": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Hated of the Wyrm",
+      "French": "Malédiction du Dragon divin",
+      "German": "Verfluchung des Drachen",
+      "Japanese": "聖竜の呪い",
+      "Korean": "???"
+    }
+  },
+  "2262": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Grace of Light",
+      "French": "Bénédiction de la Lumière",
+      "German": "Segen des Lichts",
+      "Japanese": "光の祝福",
+      "Korean": "???"
+    }
+  },
+  "2263": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Shock Spikes",
+      "French": "Pointes de foudre",
+      "German": "Schockstachel",
+      "Japanese": "ショックスパイク",
+      "Korean": "???"
+    }
+  },
+  "2264": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Braced",
+      "French": "Volonté de tenir bon",
+      "German": "Stand festigen",
+      "Japanese": "ふんばる覚悟",
+      "Korean": "???"
+    }
+  },
+  "2265": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Standing Firm",
+      "French": "Tenir bon",
+      "German": "Starkes Standbein",
+      "Japanese": "ふんばる",
+      "Korean": "???"
+    }
+  },
+  "2266": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2267": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Meat Shield",
+      "French": "Chair à canon",
+      "German": "Fleischschild",
+      "Japanese": "ミートシールド",
+      "Korean": "???"
+    }
+  },
+  "2268": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2269": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "FATE Participant",
+      "French": "En ALÉA",
+      "German": "In FATE",
+      "Japanese": "F.A.T.E.参加",
+      "Korean": "???"
+    }
+  },
+  "2270": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2271": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Panic",
+      "French": "En panique",
+      "German": "Panik",
+      "Japanese": "パニック",
+      "Korean": "???"
+    }
+  },
+  "2272": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2273": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2274": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2275": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2276": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "着ぐるみ着用",
+      "French": "Costume",
+      "German": "着ぐるみ着用",
+      "Japanese": "着ぐるみ着用",
+      "Korean": "???"
+    }
+  },
+  "2277": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2278": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Light Resistance Down",
+      "French": "Résistance à la Lumière réduite",
+      "German": "Lichtresistenz -",
+      "Japanese": "光属性耐性低下",
+      "Korean": "???"
+    }
+  },
+  "2279": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2280": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Enlarged",
+      "French": "Grossissement",
+      "German": "Rasantes Wachstum",
+      "Japanese": "巨大化",
+      "Korean": "???"
+    }
+  },
+  "2281": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Fully Enlarged",
+      "French": "Gigantisme",
+      "German": "Maximalwachstum",
+      "Japanese": "最大化",
+      "Korean": "???"
+    }
+  },
+  "2282": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Embolden",
+      "French": "Enhardissement",
+      "German": "Ermutigen",
+      "Japanese": "エンボルデン",
+      "Korean": "???"
+    }
+  },
+  "2283": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2284": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2285": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2286": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "Fetters",
+      "French": "Attache",
+      "German": "Fesselung",
+      "Japanese": "拘束",
+      "Korean": "???"
+    }
+  },
+  "2287": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2288": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2289": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2290": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2291": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2292": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2293": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2294": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2295": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2296": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2297": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2298": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2299": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2300": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2301": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2302": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2303": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2304": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2305": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2306": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2307": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2308": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2309": {
+    "CompanyAction": false,
+    "Name": {
+      "Chinese": "???",
+      "English": "",
+      "French": "",
+      "German": "",
+      "Japanese": "",
+      "Korean": "???"
+    }
+  },
+  "2310": {
     "CompanyAction": false,
     "Name": {
       "Chinese": "???",
