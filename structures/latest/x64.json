@@ -10,7 +10,7 @@
     "NPCID2": 128,
     "OwnerID": 132,
     "Type": 140,
-    "GatheringStatus": 145, // ???
+    "GatheringStatus": 488, // ???
     "Distance": 146,
     "TargetFlags": 148,
     "GatheringInvisible": 148, // ???
@@ -33,10 +33,10 @@
     "MPCurrent": 6304,
     "MPMax": 6304, // doesn't exist anymore (since everyone has 10000 max now)
     "TPCurrent": 6312, // doesn't exist anymore
-    "GPCurrent": 6312,
-    "GPMax": 6314,
-    "CPCurrent": 6316,
-    "CPMax": 6318, 
+    "GPCurrent": 6314,
+    "GPMax": 6316,
+    "CPCurrent": 6318,
+    "CPMax": 6320, 
     "Title": 6326, // ???
     "ActionStatus": 6356,
     "Job": 6358,
