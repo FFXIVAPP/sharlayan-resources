@@ -172,10 +172,10 @@
       "Perception": 628
   },
   "EnmityItem": {
-    "SourceSize": 72,
+    "ID": 0,
     "Name": 0,
-    "ID": 64,
-    "Enmity": 68
+    "Enmity": 4,
+    "SourceSize": 8
   },
   "HotBarItem": {
     "ContainerSize": 3456,
