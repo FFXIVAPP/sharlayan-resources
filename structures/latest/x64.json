@@ -185,16 +185,20 @@
     "ID": 150
   },
   "InventoryContainer": {
-    "Amount": 8
+	"ID": 8,
+    "Amount": 12
   },
   "InventoryItem": {
-    "Slot": 4,
-    "ID": 8,
     "Amount": 12,
-    "SB": 16,
     "Durability": 18,
+    "GlamourID": 48,
+    "ID": 8,
     "IsHQ": 20,
-    "GlamourID": 48
+    "SB": 16,
+    "Slot": 4,
+	"MateriaType": 32,
+	"MateriaRank": 42,
+	"DyeID": 47
   },
   "PartyMember": {
     "SourceSize": 912,
