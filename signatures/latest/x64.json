@@ -146,5 +146,14 @@
       0,
       0
     ]
+  },
+  {
+    "ASMSignature": true,
+    "Key": "JOBRESOURCES",
+    "PointerPath": [
+      -13,
+      0
+    ],
+    "Value": "488B0D********32DB895C24**4885C9"
   }
 ]
