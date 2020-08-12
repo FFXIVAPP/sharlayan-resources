@@ -186,7 +186,7 @@
   },
   "InventoryContainer": {
 	"ID": 8,
-	"Amount": 12
+    "Amount": 12
   },
   "InventoryItem": {
     "Amount": 12,
