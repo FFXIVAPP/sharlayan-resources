@@ -238,5 +238,94 @@
     "Focus": 136,
     "Previous": 160,
     "CurrentID": 208
+  },
+  "JobResources": {
+    "SourceSize": 16,
+    "Paladin": {
+      "OathGauge": 8
+    },
+    "Warrior": {
+      "BeastGauge": 8
+    },
+    "Darkknight": {
+      "Timer": 10,
+      "BlackBlood": 8,
+      "DarkArts": 12
+    },
+    "Gunbreaker": {
+      "Cartridge": 8,
+      "ComboStep": 12
+    },
+    "Monk": {
+      "Chakra": 8
+    },
+    "Dragoon": {
+      "Timer": 8,
+      "Mode": 10,
+      "DragonGaze": 11
+    },
+    "Ninja": {
+      "Timer": 8,
+      "TimerFlag": 10,
+      "NinkiGauge": 11
+    },
+    "Samurai": {
+      "Kenki": 11,
+      "Meditation": 12,
+      "Sen": 13
+    },
+    "Bard": {
+      "Timer": 8,
+      "Repertoire": 10,
+      "SoulVoice": 11,
+      "ActiveSong": 12
+    },
+    "Machinist": {
+      "OverheatTimer": 8,
+      "SummonTimer": 10,
+      "Heat": 12,
+      "Battery": 13
+    },
+    "Dancer": {
+      "FourFoldFeathers": 8,
+      "Esprit": 9,
+      "StepIndex": 14,
+      "Step1": 10,
+      "Step2": 11,
+      "Step3": 12,
+      "Step4": 13
+    },
+    "Summoner": {
+      "Timer": 8,
+      "Aether": 12
+    },
+    "BlackMage": {
+	  "Timer": 8,
+      "Stacks": 12,
+      "UmbralHearts": 13,
+      "PolyglotCount": 14,
+      "Enochian": 15
+    },
+    "RedMage": {
+      "WhiteMana": 8,
+      "BlackMana": 9
+    },
+    "WhiteMage": {
+      "Timer": 8,
+      "Lily": 12,
+      "BloodLily": 13
+    },
+    "Scholar": {
+      "Timer": 8,
+      "Aetherflow": 10,
+      "FaerieGauge": 11
+    },
+    "Astrologian": {
+      "Timer": 8,
+      "Arcana": 12,
+      "Seal1": 13,
+      "Seal2": 14,
+      "Seal3": 15
+    }
   }
 }
