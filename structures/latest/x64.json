@@ -257,9 +257,7 @@
       "ComboStep": 12
     },
     "Monk": {
-      "Timer": 8,
-      "GreasedLightning": 10,
-      "Chakra": 11
+      "Chakra": 8
     },
     "Dragoon": {
       "Timer": 8,
