@@ -13,7 +13,7 @@
   },
   {
     "Key": "CHARMAP",
-    "Value": "488b420848c1e8033da701000077**8bc0488d0d",
+    "Value": "488B0D********BB000000E04885C974**488B01FF5008483BC374**488BD0488D0D",
     "ASMSignature": true,
     "PointerPath": [0, 0]
   },
@@ -93,9 +93,9 @@
     "PointerPath": [0, 0]
   },
   {
-    "Key": "JOBRESOURCES",
-    "Value": "488B0D********32DB895C24**4885C9",
+    "Key": "COOLDOWNS",
+    "Value": "48895C24**BB0600000048897424**488D70**48896C24**48897C24**0FB7066685C074**0FB7F84584E474**8BD7488D0D",
     "ASMSignature": true,
-    "PointerPath": [-13, 0]
+    "PointerPath": [0, 8]
   }
 ]
