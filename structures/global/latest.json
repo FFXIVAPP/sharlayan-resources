@@ -3,7 +3,7 @@
     "SourceSize": 9200,
     "DefaultBaseOffset": 0,
     "DefaultStatOffset": 0,
-    "DefaultStatusEffectOffset": 6648,
+    "DefaultStatusEffectOffset": 6952,
     "Name": 48,
     "ID": 116,
     "NPCID1": 120,
@@ -24,35 +24,35 @@
     "IsGM": 396,
     "TargetType": 464,
     "EntityCount": 480,
-    "Status": 3977,
-    "TargetID": 6360,
-    "ClaimedByID": 6352,
+    "Status": 1841, // 3946,
+    "TargetID": 3152, // 6464,
+    "ClaimedByID": 6728, // or 6736  // old 6456,
     "ModelID": 6464,
     "HPCurrent": 452,
     "HPMax": 456,
     "MPCurrent": 460,
     "MPMax": 464, // doesn't exist anymore (since everyone has 10000 max now)
-    "TPCurrent": 6312, // doesn't exist anymore
+    "TPCurrent": 464, // doesn't exist anymore
     "GPCurrent": 468,
     "GPMax": 470,
     "CPCurrent": 472,
     "CPMax": 474,
     "Title": 6358, // ???
-    "ActionStatus": 6524,
-    "Job": 482,
-    "Level": 483,
-    "Icon": 6386, // ???
-    "GrandCompany": 6399, // ???
-    "GrandCompanyRank": 6399, // ???
-    "DifficultyRank": 6403, // ???
-    "AgroFlags": 6543,
-    "CombatFlags": 6560,
-    "IsCasting1": 7040,
-    "IsCasting2": 7042,
-    "CastingID": 7044,
-    "CastingTargetID": 7056,
-    "CastingProgress": 7092,
-    "CastingTime": 7096
+    "ActionStatus": 6592,
+    "Job": 480,
+    "Level": 481,
+    "Icon": 6450, // ???
+    "GrandCompany": 6463, // ???
+    "GrandCompanyRank": 6463, // ???
+    "DifficultyRank": 6467, // ???
+    "AgroFlags": 6859,
+    "CombatFlags": 6870, // 6623,
+    "IsCasting1": 7344, // 7104,
+    "IsCasting2": 7346, // 7106,
+    "CastingID": 7348, // 7108,
+    "CastingTargetID": 7360, // 7120,
+    "CastingProgress": 7396, // 7156,
+    "CastingTime": 7400 // 7160,
   },
   "StatusItem": {
     "SourceSize": 12,
@@ -69,8 +69,8 @@
     "LogNext": 84,
     "LogEnd": 92
   },
-  "PlayerInfo": {
-    "SourceSize": 650,
+  "CurrentPlayer": {
+    "SourceSize": 660,
     "JobID": 106,
     "PGL": 122,
     "GLD": 124,
@@ -100,6 +100,8 @@
     "BLU": 172,
     "GNB": 174,
     "DNC": 176,
+    "RPR": 180,
+    "SGE": 184,
     "PGL_CurrentEXP": 184,
     "GLD_CurrentEXP": 188,
     "MRD_CurrentEXP": 192,
@@ -128,6 +130,8 @@
     "BLU_CurrentEXP": 284,
     "GNB_CurrentEXP": 288,
     "DNC_CurrentEXP": 292,
+    "RPR_CurrentEXP": 296,
+    "SGE_CurrentEXP": 300,
     "BaseStrength": 340,
     "BaseDexterity": 344,
     "BaseVitality": 348,
