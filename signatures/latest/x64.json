@@ -112,31 +112,14 @@
   {
     "ASMSignature": true,
     "Key": "HOTBAR",
-    "PointerPath": [
-      0,
-      0,
-      56,
-      48,
-      40,
-      32,
-      0,
-      0
-    ],
-    "Value": "488B4708498B5D00498B7728488B3D"
+    "PointerPath": [0, 0, 88, 168, 3360, 114],
+    "Value": "33C0C643100148897B08EB26488BCBE8********4885FF7414488B0D"
   },
   {
     "ASMSignature": true,
     "Key": "RECAST",
-    "PointerPath": [
-      0,
-      0,
-      56,
-      24,
-      48,
-      32,
-      60
-    ],
-    "Value": "488B4708498B5D00498B7728488B3D"
+    "PointerPath": [0, 0, 56, 24, 48, 32, 60],
+    "Value": "33C0C643100148897B08EB26488BCBE8********4885FF7414488B0D"
   },
   {
     "ASMSignature": true,
