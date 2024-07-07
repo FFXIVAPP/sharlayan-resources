@@ -354,11 +354,11 @@
     "StatusID": 0
   },
   "TargetInfo": {
-    "Current": 16,
-    "CurrentID": 208,
+    "Current": 0,
+    "CurrentID": 192,
     "Focus": 248,
-    "MouseOver": 0,
-    "Previous": 160,
+    "MouseOver": 208,
+    "Previous": 248,
     "Size": 9200,
     "SourceSize": 256
   }
