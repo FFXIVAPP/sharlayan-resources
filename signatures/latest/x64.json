@@ -135,9 +135,9 @@
     "Key": "COOLDOWNS",
     "PointerPath": [
       0,
-      8
+      0
     ],
-    "Value": "48895C24**BB0600000048897424**488D70**48896C24**48897C24**0FB7066685C074**0FB7F84584E474**8BD7488D0D"
+    "Value": "83F802760EF3410F104510F30F1105"
   },
   {
     "ASMSignature": true,
