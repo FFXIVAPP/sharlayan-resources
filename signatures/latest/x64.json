@@ -6,7 +6,7 @@
       0,
       0
     ],
-    "Value": "E8********483BC374**488D0D"
+    "Value": "48891D********0F57C0488905********881D********48891D********48891D********891D********881D********C705********01000000660F7F05"
   },
   {
     "ASMSignature": true,
@@ -26,25 +26,25 @@
       0,
       0
     ],
-    "Value": "488B0D********BB000000E04885C974**488B01FF5008483BC374**488BD0488D0D"
+    "Value": "4885C9741F488B01FF5008483BC37414488BD0488D0D"
   },
   {
     "ASMSignature": true,
     "Key": "PARTYMAP",
     "PointerPath": [
       0,
-      0
+      8
     ],
-    "Value": "8b7c24440fb66c2440400fb6d5488d0d"
+    "Value": "E9********CCCCCCCC488D0D********E9********CCCCCCCC488D0D********E9********CCCCCCCC8B05********8905********C3CCCCCC8B05********8905********C3CCCCCC8B05********8905********C3CCCCCC4883EC28488D0D"
   },
   {
     "ASMSignature": true,
     "Key": "PARTYCOUNT",
     "PointerPath": [
       0,
-      15708
+      26012
     ],
-    "Value": "8b7c24440fb66c2440400fb6d5488d0d"
+    "Value": "E9********CCCCCCCC488D0D********E9********CCCCCCCC488D0D********E9********CCCCCCCC8B05********8905********C3CCCCCC8B05********8905********C3CCCCCC8B05********8905********C3CCCCCC4883EC28488D0D"
   },
   {
     "ASMSignature": true,
@@ -118,7 +118,7 @@
   {
     "ASMSignature": true,
     "Key": "RECAST",
-    "PointerPath": [0, 0, 56, 24, 48, 32, 60],
+    "PointerPath": [0, 0, 56, 16, 48, 40, 60],
     "Value": "33C0C643100148897B08EB26488BCBE8********4885FF7414488B0D"
   },
   {
